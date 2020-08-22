@@ -3,7 +3,7 @@
     "name": "Tyler Hansen",
     "image": "profilepic.jpg",
     "bio": "Hi, I'm Tyler. I'm a rising junior at Colby College who likes to write code. I love all things STEM and I'm double majoring in Computer Science and Physics. Aside from my academic endeavors, I am a fan of all things Sci-Fi, an exceptionally average video game player, a part-time employee as an audiovisual technician, and a full-time consumer of coffee.",
-    "contactmessage": "Want to reach out? Please shoot me an email.",
+    "contactmessage": "Want to reach out? Please shoot me an email or reach out to me on one of the social media platforms linked below. Alternatively, if you require my attention via snail mail:",
     "email": "tyler.hansen@colby.edu",
     "github": "https://github.com/tylermhansen",
     "project": "https://github.com/tylermhansen",
@@ -56,20 +56,29 @@
     ],
     "work": [
       {
-        "company": "MedRhythms, inc.",
+        "company": "MedRhythms, Inc.",
         "url": "https://www.medrhythms.com",
         "title": "Software Engineer Intern",
-        "years": "June 2020 - Present",
-        "description": "Currently working on a full-stack web application using React.js and a Django REST API backend written in Python to perform complex entrainment suitability analysis and intense metadata validation of certain audio files. Collaborating remotely (due to COVID-19) on a team of multiple interns in an agile environment, using DevOps tools such as Git, Docker, Jira, Slack, etc.",
+        "years": "June 2020 - August 2020",
+        "description": "Created a full-stack web application using React.js and a Django REST API backend written in Python to perform complex entrainment suitability analysis and intense metadata validation of certain audio files. Worked on both the front-end/UX employing Tailwind CSS & Material UI and the back-end writing algorithms. Collaborated remotely (due to COVID-19) on a team of multiple interns in an agile environment, using DevOps tools such as Git, Docker, Jira, etc. in a PR-focused workflow for rapid iteration and QA.",
         "link": "https://patents.google.com/patent/US10556087B2/en?q=%22enhancing+music+for+repetitive+motion+activities%22&oq=%22enhancing+music+for+repetitive+motion+activities%22",
         "linkdesc": " Here is a link to the patent that the algorithms adhered to."
       },
       {
-        "company": "MedRhythms, inc.",
+        "company": "MedRhythms, Inc.",
         "url": "https://www.medrhythms.com",
         "title": "Software Engineer Intern",
         "years": "January 2020",
         "description": "Performed analysis of biometric data in Python, including parsing of nested JSON objects to human-readable CSV in a specific format, validating this conversion of file formats programmatically. This was followed by the synchronization and visualization of data collected in real-time and in post-processing, which required the identification of and correction for any missed measurements in real-time. Accepted Summer 2020 return offer."
+      },
+      {
+        "company": "PieFolio",
+        "url": "https://www.eariously.com",
+        "title": "Founder & CEO",
+        "years": "March 2019 - January 2020",
+        "description": "My introduction to founding a startup, PieFolio was a portfolio website creation platform for busy college students that boiled the process down to form-based submission. Collected a waitlist of over 100 college students and performed extensive market research talking to 50+ parents of college students after competing in a pitch competition. Wrote an application for and received a grant from the Maine Technology Institute for $5,000.",
+        "link": "https://www.mainebiz.biz/article/starting-up-young-talent-in-waterville-new-program-helps-students-get-businesses-off-the",
+        "linkdesc": " Here is an article in MaineBiz that talks about PieFolio."
       },
       {
         "company": "Eariously, LLC",
@@ -109,34 +118,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "PieFolio",
-        "category": "PieFolio was my portfolio website creation platform for busy college students. Collected a waitlist of over 100 college students and performed extensive market research after competing in a pitch competition. Wrote an application for and received a grant from the Maine Technology Institute for $5,000",
-        "image": "canadian-wanderlust.jpg",
-        "url": "https://www.canadianwanderlust.com"
+        "title": "renaissance",
+        "category": "\"renaissance\" is an art installation I helped create for CS267, a course at Colby College. The audience approaches a blank canvas and a webcam snaps a photo of them. A neural style transfer is then performed on the image, and the user is \"painted into\" a famous work of art. Click to learn more.",
+        "image": "renaissance.png",
+        "url": "https://www.tylermhansen.com/renaissance"
       },
       {
-        "title": "Fury Fighting Gear",
-        "category": "(offline now) A fighting gear company I started",
-        "image": "fury-fighting-gear.jpg",
-        "url": "http://www.timbakerdev.com"
+        "title": "Maine App Challenge",
+        "category": "I finished third place in the 2017 Maine App Challenge, and second in 2018. In 2017, I created the SoPo Spark Project, a web app that connected to the Twitter API to inspire residents of my city to do community service and let them see others participate. In 2018, I developed STEMGirlz, a platformer game developed in the Unity Game Engine that introduces the user to famous women in STEM history.",
+        "image": "tylertech.jpg",
+        "url": "https://www.newscentermaine.com/article/news/local/maine-app-challenge-winners-revealed/97-561126185"
       },
       {
-        "title": "Original Thai Food",
-        "category": "Website I built for a restaurant I like in Thailand",
-        "image": "original-thai-food.jpg",
-        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title": "Resume Website",
-        "category": "A React based resume website template",
-        "image": "resume-website.jpg",
-        "url": "http://www.timbakerdev.com"
-      },
-      {
-        "title": "Smirkspace",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "smirkspace.jpg",
-        "url": "http://www.smirkspace.com"
+        "title": "Meteor Math Madness",
+        "category": "A game that I built for my local elementary schools to help kids develop mental math skills. Created in the Unity Game Engine. Got feedback from teachers and improved accordingly. Click to play!",
+        "image": "meteormath.png",
+        "url": "http://highschool.spsd.org/meteormultiplication/index.html"
       }
     ]
   }

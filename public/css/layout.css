@@ -1,8 +1,8 @@
 /*
 =====================================================================
-*   Ceevee v1.0 Layout Stylesheet
-*   url: styleshout.com
-*   03-18-2014
+* Tyler Hansen - Site Stylesheet
+* Adapted from Ceevee v1.0 Layout Stylesheet
+* 08/16/2020
 =====================================================================
 
    TOC:
@@ -162,6 +162,7 @@ header .scrolldown a:hover {
 /* hide toggle button */
 #nav-wrap > a.mobile-btn {
   display: none;
+  background-color: #ff8a5b;
 }
 
 ul#nav {
@@ -676,12 +677,6 @@ ul#nav li.current a {
   color: #636363;
   font-size: 17px;
 }
-/*#
-call-to-action .button {
-	color:#fff;
-   background: #0D0D0D;
-}
-*/
 #call-to-action .button:hover,
 #call-to-action .button:active {
   background: #ffffff;

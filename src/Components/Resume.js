@@ -87,7 +87,7 @@ class Resume extends Component {
           <div className="nine columns main-col">{work}</div>
         </div>
 
-        <div className="row skill">
+        <div className="row work">
           <div className="three columns header-col">
             <h1>
               <span>Skills</span>
@@ -98,6 +98,46 @@ class Resume extends Component {
             <div className="bars">
               <ul className="skills">{skills}</ul>
             </div>
+          </div>
+        </div>
+        <div className="row skills">
+          <div className="three columns header-col">
+            <h1>
+              <span>Interests</span>
+            </h1>
+          </div>
+
+          <div className="nine columns main-col">
+            <ul>
+              <li>- Caffeination</li>
+              <li>
+                <b>- Digital therapeutics</b>
+              </li>
+              <li>
+                - Forming strong opinions of movies with absolutely no
+                qualification or education to do so{" "}
+                <i>
+                  (P.S, Good Will Hunting is the greatest film of all time, feel
+                  free to ask me why)
+                </i>
+              </li>
+              <li>
+                <b>- Robotics</b>
+              </li>
+              <li>- Dominating fantasy football leagues</li>
+              <li>
+                <b>- Aerospace engineering / Space travel</b>
+              </li>
+              <li>- Guitar: Learning online during quarantine</li>
+              <li>
+                <b>- Technology that assists underrepresented groups</b>
+              </li>
+              <li>- Being exceptionally average at video games</li>
+              <li>
+                <b>- What it feels like to know you've changed the world 🌎</b>
+              </li>
+              <li>- Anything science fiction</li>
+            </ul>
           </div>
         </div>
       </section>
