@@ -121,7 +121,7 @@
         "title": "renaissance",
         "category": "\"renaissance\" is an art installation I helped create for CS267, a course at Colby College. The audience approaches a blank canvas and a webcam snaps a photo of them. A neural style transfer is then performed on the image, and the user is \"painted into\" a famous work of art. Click to learn more.",
         "image": "renaissance.png",
-        "url": "https://www.tylermhansen.com/renaissance"
+        "url": "https://www.tylerhansen.dev/renaissance"
       },
       {
         "title": "Maine App Challenge",
