@@ -64,13 +64,13 @@ class Header extends Component {
               />
             </h2>
             <h3>
-              I'm actively searching for internships for Summer 2021. If you're
-              interested in hiring me, please don't hesitate to reach out.
+              I'm no longer searching for internships for Summer 2021; but please do 
+              reach out and connect! I love meeting new people.
             </h3>
             <hr />
             <ul className="social">
               <a href="#contact" className="smoothscroll button btn hire-btn">
-                <i className="fa fa-thumbs-up"></i>Hire Me!
+                <i className="fa fa-thumbs-up"></i>Meet me!
               </a>
             </ul>
           </div>
