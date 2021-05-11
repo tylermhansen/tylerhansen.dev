@@ -55,6 +55,15 @@
       }
     ],
     "work": [
+       {
+        "company": "Rockstar Games New England",
+        "url": "https://www.rockstargames.com/",
+        "title": "Incoming AI Intern",
+        "years": "Summer 2021",
+        "description": I'm extremely excited and fortunate to be joining Rockstar Games as an AI intern this summer.",
+        "link": "https://www.rockstargames.com/games",
+        "linkdesc": " Check out all the amazing games they've published."
+      },
       {
         "company": "MedRhythms, Inc.",
         "url": "https://www.medrhythms.com",
